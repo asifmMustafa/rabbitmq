@@ -6,3 +6,4 @@ services:
     name: rabbitmq
     mountPath: /var/lib/rabbitmq
     sizeGB: 1
+  dockerfilePath: ./Dockerfile
